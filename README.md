@@ -73,4 +73,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=MrNavneetChauhan">
 </a>
-<a href="https://github.com/MrNavneetChuahan/"><img src="https://img.shields.io/github/followers/MrNavneetChauhan?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/MrNavneetChuahan?tab=followers"><img src="https://img.shields.io/github/followers/MrNavneetChauhan?label=Followers&style=social" alt="GitHub Badge"></a>
