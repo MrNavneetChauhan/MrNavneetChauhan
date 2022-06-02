@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Instagram-Clone]()**
 
-- 🌱 I’m currently practicing question of **Data Structures and Algorithms Skills.** of LeetCode.
+- 🌱 I love to solve the questiono of **Data Structures and Algorithms Skills.**.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
