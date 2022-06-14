@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **[Instagram-Clone]()**
 
-- 🌱 I love to solve the questions of **Data Structures and Algorithms Skills.**.
+- 🌱 I love  **Data Structures and Algorithms.**.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
