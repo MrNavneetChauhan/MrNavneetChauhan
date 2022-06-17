@@ -79,4 +79,4 @@
     <img src="https://komarev.com/ghpvc/?username=MrNavneetChauhan">
 </a>
 <a href="https://github.com/MrNavneetChuahan?tab=followers"><img src="https://img.shields.io/github/followers/MrNavneetChauhan?label=Followers&style=social" alt="GitHub Badge"></a>
-<a href="https://www.quora.com/profile/Chauhan-Navneet"><img src="<img src="https://img.icons8.com/ios/50/000000/quora.png"/>
+<a href="https://www.quora.com/profile/Chauhan-Navneet"><img src="https://img.icons8.com/ios/50/000000/quora.png"/>
