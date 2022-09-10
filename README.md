@@ -70,10 +70,3 @@
 <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=MrNavneetChauhan">
-</a>
-<a href="https://github.com/MrNavneetChuahan?tab=followers"><img src="https://img.shields.io/github/followers/MrNavneetChauhan?label=Followers&style=social" alt="GitHub Badge"></a>
-<a href="https://www.quora.com/profile/Chauhan-Navneet"><img src="https://img.icons8.com/ios/50/000000/quora.png"/>
