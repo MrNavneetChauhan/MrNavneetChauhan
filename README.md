@@ -3,8 +3,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">, I'm Navneet Chauhan</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MrNavneetChauhan&label=Profile%20views&color=0e75b6&style=flat" alt="MrNavneetChauhan" /> </p>
-
 
 
 
