@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working with **[React Framework]()**
+- 🔭 I’m currently working with **[React]()**
 
 - 🌱 I love  **Data Structures and Algorithms.**.
 
